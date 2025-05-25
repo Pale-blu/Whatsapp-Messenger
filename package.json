@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "node-modules": "^1.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.28.0"
+  },
+  "name": "whatsapp-messenger",
+  "version": "1.0.0",
+  "description": "Bulk message app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pale-blu/Whatsapp-Messenger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pale-blu/Whatsapp-Messenger/issues"
+  },
+  "homepage": "https://github.com/Pale-blu/Whatsapp-Messenger#readme"
+}
